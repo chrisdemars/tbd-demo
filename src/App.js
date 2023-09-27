@@ -7,15 +7,15 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Trunk-Based Development Demo for my friends!
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://harness.io"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Head over to Harness's Website to learn more about Feature Flags!
         </a>
       </header>
     </div>
